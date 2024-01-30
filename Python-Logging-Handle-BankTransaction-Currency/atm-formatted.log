@@ -1,0 +1,49 @@
+2023-12-10 04:56:42,517 - Amount Deposited: $100.0
+2023-12-10 04:56:42,518 - Transaction Info:
+2023-12-10 04:56:42,518 - Status: Successful
+2023-12-10 04:56:42,518 - Transaction #51604
+2023-12-10 04:57:04,126 - You withdrew: $200.0
+2023-12-10 04:57:04,126 - Transaction Info:
+2023-12-10 04:57:04,126 - Status: Successful
+2023-12-10 04:57:04,126 - Transaction #655550
+2023-12-10 04:57:04,126 - Available Balance = $0.0
+2023-12-10 04:57:51,926 - Invalid pin.
+2023-12-10 04:58:21,952 - Invalid pin.
+2023-12-10 04:58:53,221 - You entered a non-number value to deposit.
+2023-12-10 04:58:53,221 - Transaction Info:
+2023-12-10 04:58:53,221 - Status: Failed
+2023-12-10 04:58:53,221 - Transaction #993065
+2023-12-10 04:58:54,718 - You entered a non-number value to withdraw.
+2023-12-10 04:58:54,718 - Transaction Info:
+2023-12-10 04:58:54,718 - Status: Failed
+2023-12-10 04:58:54,718 - Transaction #146969
+2023-12-10 04:58:54,718 - Available Balance = $100
+2023-12-10 04:59:02,147 - Invalid pin.
+2023-12-10 04:59:04,885 - Invalid pin.
+2023-12-10 04:59:09,253 - Amount Deposited: $100.0
+2023-12-10 04:59:09,253 - Transaction Info:
+2023-12-10 04:59:09,253 - Status: Successful
+2023-12-10 04:59:09,253 - Transaction #823009
+2023-12-10 04:59:12,641 - You withdrew: $111.0
+2023-12-10 04:59:12,641 - Transaction Info:
+2023-12-10 04:59:12,641 - Status: Successful
+2023-12-10 04:59:12,641 - Transaction #316290
+2023-12-10 04:59:12,641 - Available Balance = $89.0
+2023-12-10 04:59:59,468 - INFO- Amount Deposited: $111.0
+2023-12-10 04:59:59,468 - INFO- Transaction Info:
+2023-12-10 04:59:59,468 - INFO- Status: Successful
+2023-12-10 04:59:59,469 - INFO- Transaction #770919
+2023-12-10 05:00:01,078 - INFO- You withdrew: $111.0
+2023-12-10 05:00:01,078 - INFO- Transaction Info:
+2023-12-10 05:00:01,078 - INFO- Status: Successful
+2023-12-10 05:00:01,078 - INFO- Transaction #485623
+2023-12-10 05:00:01,078 - INFO- Available Balance = $100.0
+2023-12-10 05:00:43,488 - INFO- Amount Deposited: $100.0
+2023-12-10 05:00:43,488 - INFO- Transaction Info:
+2023-12-10 05:00:43,488 - INFO- Status: Successful
+2023-12-10 05:00:43,488 - INFO- Transaction #443124
+2023-12-10 05:00:45,829 - INFO- You withdrew: $100.0
+2023-12-10 05:00:45,829 - INFO- Transaction Info:
+2023-12-10 05:00:45,829 - INFO- Status: Successful
+2023-12-10 05:00:45,829 - INFO- Transaction #556196
+2023-12-10 05:00:45,829 - INFO- Available Balance = $100.0

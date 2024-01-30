@@ -1,0 +1,13 @@
+[2021-12-20 05:19:33,438] {DEBUG} __main__: #19 - Starting Division!
+[2021-12-20 05:19:37,571] {INFO} __main__: #21 - 6.0
+[2021-12-20 05:19:38,552] {INFO} __main__: #23 - 3.0
+[2021-12-20 05:32:55,584] {DEBUG} __main__: #20 - Starting Division!
+[2021-12-20 05:32:57,792] {INFO} __main__: #23 - 6.0
+[2021-12-20 05:32:59,082] {INFO} __main__: #25 - 0.0
+[2021-12-20 05:32:59,082] {ERROR} __main__: #30 - Attempting to divide by 0!
+[2021-12-20 05:32:59,082] {WARNING} __main__: #37 - The result value is None!
+[2023-12-09 13:36:00,110] {DEBUG} __main__: #20 - Starting Division!
+[2023-12-09 13:36:04,035] {INFO} __main__: #23 - 6.0
+[2023-12-09 13:36:07,971] {INFO} __main__: #25 - 0.0
+[2023-12-09 13:36:07,971] {ERROR} __main__: #30 - Attempting to divide by 0!
+[2023-12-09 13:36:07,971] {WARNING} __main__: #37 - The result value is None!

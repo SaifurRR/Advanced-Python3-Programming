@@ -1,0 +1,16 @@
+[2021-11-18 04:16:42,465] INFO - 0.0
+[2021-11-18 04:16:42,737] INFO - 0.0
+[2021-11-18 04:16:42,737] ERROR - Attempting to divide by 0!
+[2023-12-09 13:48:24,762] INFO - 0.0
+[2023-12-09 13:48:25,616] INFO - 0.0
+[2023-12-09 13:48:25,616] ERROR - Attempting to divide by 0!
+[2023-12-09 13:48:25,616] WARNING - The result value is None!
+[2023-12-09 13:49:09,555] - INFO - 0.0
+[2023-12-09 13:49:10,140] - INFO - 0.0
+[2023-12-09 13:49:10,140] - ERROR - Attempting to divide by 0!
+[2023-12-09 13:49:10,140] - WARNING - The result value is None!
+[2023-12-09 13:50:27,483] - DEBUG - Starting Division!
+[2023-12-09 13:50:28,814] - INFO - 0.0
+[2023-12-09 13:50:29,919] - INFO - 0.0
+[2023-12-09 13:50:29,920] - ERROR - Attempting to divide by 0!
+[2023-12-09 13:50:29,920] - WARNING - The result value is None!
