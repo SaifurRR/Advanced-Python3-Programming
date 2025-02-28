@@ -5,11 +5,11 @@ Number of orders for "Belgium": 7
 Average total profit for "Portugal": 632281.405     
 
 ### 2. Deque Palindrome
-$alskjfwi$ : is not Palindrome
+**alskjfw** : is not Palindrome
 
-$level$    : is palindrome
+**level**    : is palindrome
 
-$kayak$    : is palindrome
+**kayak**    : is palindrome
 
 ### 3. Hacking The Fender:
 The Fender, a notorious computer hacker and general villain of the people, has compromised several top-secret passwords including your own. Your mission, should you choose to accept it, is threefold. You must acquire access to The Fender‘s systems, you must update his "passwords.csv" file to scramble the secret data. The last thing you need to do is add the signature of Slash Null, a different hacker whose nefarious deeds could be very conveniently halted by The Fender if they viewed Slash Null as a threat.\
@@ -29,18 +29,18 @@ You are the Data Analyst at Carly’s Clippers, the newest hair salon on the blo
 
 We have been provided with three lists:
 
-$hairstyles$: the names of the cuts offered at Carly’s Clippers.
+**hairstyles:** the names of the cuts offered at Carly’s Clippers.
 
-$prices$: the price of each hairstyle in the hairstyles list.
+**prices:** the price of each hairstyle in the hairstyles list.
 
-$last week$: the number of purchases for each hairstyle type in the last week.
+**last week:** the number of purchases for each hairstyle type in the last week.
 
 Each index in hairstyles corresponds to an associated index in prices and last_week.
 
 For example, The hairstyle "bouffant" has an associated price of 30 from the prices list, and was purchased 2 times in the last week as shown in the last_week list. Each of these elements are in the first index of their respective lists.
 
 ### 6. Energy Distance Calculation
-$Calculated metrics:$ 
+**Calculated metrics:** 
 
 Fahrenheit to Celsius: 3.78e+01°C 
 
