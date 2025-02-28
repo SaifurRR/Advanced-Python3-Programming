@@ -88,4 +88,4 @@ In this project, we process some data from a group of friends playing scrabble. 
 
 [brunch menu. It serves from 11 to 16, kids menu. It serves from 11 to 21]
 
-This franchise is located at 189 Fitzgerald Avenue
+This franchise is located at 189 Fitzgerald Avenue.
