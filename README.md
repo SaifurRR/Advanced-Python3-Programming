@@ -68,6 +68,15 @@ The GE train does 2.27e+07 Joules of work over 100 meters.
 
 **blue** was sold **22** times
 
+### 8. Time Traveler's
+
+**time now:** 17:23:17.605090
+
+**total travel cost:** $ 4000.00
+
+**Australia**
+
+Pack your bags! You're traveling to Australia in the year 2037. The cost of this trip will be **$4000.00**.
      
 
   
