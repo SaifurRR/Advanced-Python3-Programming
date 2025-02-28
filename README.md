@@ -4,7 +4,7 @@ Number of orders for "Belgium": 7
 
 Average total profit for "Portugal": 632281.405     
 
-### 2. 
+### 2. Deque Palindrome
 'alskjfwi' : is not Palindrome
 'level'    : is palindrome
 'kayak'    : is palindrome
