@@ -52,6 +52,22 @@ A 1kg bomb supplies 2.04e+21 Joules.
 
 The GE train does 2.27e+07 Joules of work over 100 meters.
 
+### 7. Thread Shed
+
+**purple** was sold **17** times
+
+**red** was sold **24** times
+
+**yellow** was sold **34** times
+
+**black** was sold **26** times
+
+**green** was sold **30** times
+
+**white** was sold **28** times
+
+**blue** was sold **22** times
+
      
 
   
