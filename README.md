@@ -5,9 +5,9 @@ Number of orders for "Belgium": 7
 Average total profit for "Portugal": 632281.405     
 
 ### 2. Deque Palindrome
-'alskjfwi' : is not Palindrome
-'level'    : is palindrome
-'kayak'    : is palindrome
+$alskjfwi$' : is not Palindrome
+$level$    : is palindrome
+$kayak$    : is palindrome
 
 ### 3. Hacking The Fender:
 The Fender, a notorious computer hacker and general villain of the people, has compromised several top-secret passwords including your own. Your mission, should you choose to accept it, is threefold. You must acquire access to The Fender‘s systems, you must update his "passwords.csv" file to scramble the secret data. The last thing you need to do is add the signature of Slash Null, a different hacker whose nefarious deeds could be very conveniently halted by The Fender if they viewed Slash Null as a threat.\
@@ -21,6 +21,18 @@ Sal’s Shippers has several different options for a customer to ship their pack
 Ground Shipping, which is a small flat charge plus a rate based on the weight of your package.
 Ground Shipping Premium, which is a much higher flat charge, but you aren’t charged for weight.
 Drone Shipping (new), which has no flat charge, but the rate based on weight is triple the rate of ground shipping.
+
+### 5. Carly's Clippers
+You are the Data Analyst at Carly’s Clippers, the newest hair salon on the block. The lists of data have been collected in the past couple of weeks. 
+
+We have been provided with three lists:
+
+$hairstyles$: the names of the cuts offered at Carly’s Clippers.
+$prices$: the price of each hairstyle in the hairstyles list.
+$last_week$: the number of purchases for each hairstyle type in the last week.
+Each index in hairstyles corresponds to an associated index in prices and last_week.
+
+For example, The hairstyle "bouffant" has an associated price of 30 from the prices list, and was purchased 2 times in the last week as shown in the last_week list. Each of these elements are in the first index of their respective lists.
 
      
 
