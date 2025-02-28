@@ -77,7 +77,12 @@ The GE train does 2.27e+07 Joules of work over 100 meters.
 **travel destination:** Australia
 
 Pack your bags! You're traveling to Australia in the year 2037. The cost of this trip will be **$4000.00**.
-     
+
+### 9. Scrabble
+
+In this project, we process some data from a group of friends playing scrabble. We use dictionaries to organize players, words, and points.
+
+**player to points:** {'player1': 29, 'wordNerd': 32, 'Lexi Con': 31, 'Prof Reader': 31}
 
   
     
