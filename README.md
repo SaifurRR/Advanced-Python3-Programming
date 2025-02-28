@@ -84,7 +84,8 @@ In this project, we process some data from a group of friends playing scrabble. 
 
 **player to points:** {'player1': 29, 'wordNerd': 32, 'Lexi Con': 31, 'Prof Reader': 31}
 
-  
-    
-  
-  
+### 10. Basta Fazoolin
+
+[brunch menu. It serves from 11 to 16, kids menu. It serves from 11 to 21]
+
+This franchise is located at 189 Fitzgerald Avenue
