@@ -74,7 +74,7 @@ The GE train does 2.27e+07 Joules of work over 100 meters.
 
 **total travel cost:** $ 4000.00
 
-**Australia**
+**travel destination:** Australia
 
 Pack your bags! You're traveling to Australia in the year 2037. The cost of this trip will be **$4000.00**.
      
