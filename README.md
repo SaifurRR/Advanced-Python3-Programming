@@ -89,3 +89,7 @@ In this project, we process some data from a group of friends playing scrabble. 
 [**brunch menu**. It serves from 11 to 16, kids menu. It serves from 11 to 21]
 
 This franchise is located at 189 Fitzgerald Avenue.
+
+### 11. School Catalogue
+
+Use knowledge of classes to the test by creating a digital school catalogue for the New York City Department of Education. The Department of Education wants the catalog to hold quick reference material for each school in the city.
